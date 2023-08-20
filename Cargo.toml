@@ -1,5 +1,5 @@
 [package]
-name = "Axum-server"
+name = "axum-server"
 version = "0.1.0"
 edition = "2021"
 
